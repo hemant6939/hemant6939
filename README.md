@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemant6939
-- 👀 I’m interested in ...product management role 
+- 👀 I’m interested in ...Front-end development role 
 - 🌱 I’m currently learning ...(web development)
 - 💞️ I’m looking to collaborate on ...new startup 
 - 📫 How to reach me ...hemantchaudhary1236@gmail.com
